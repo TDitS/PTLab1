@@ -428,7 +428,7 @@ if __name__ == "__main__":
 #### Успешный запуск на GitHub при слиянии веток main <- code100
 ![pull_merge2](/img/merge2.png)
 
-#### Диаграмма загрузок branchи их слияний
+#### Диаграмма загрузок branch и их слияний
 ![pull_network](/img/network.png)
 
 ### Задание 5
