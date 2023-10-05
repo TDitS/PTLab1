@@ -221,6 +221,9 @@ if __name__ == "__main__":
 #### Работа кода ветки xml
 ![pull_xml](/img/xml.png)
 
+#### Результаты модульных тестов
+![pull_xml_test](/img/test1.png)
+
 #### Успешный запуск на GitHub при слиянии веток main <- xml
 ![pull_merge](/img/merge1.png)
 
@@ -424,6 +427,9 @@ if __name__ == "__main__":
 #### Тестирование проводилось в ОС Linux, дистр. Ubuntu 20.04 LTS
 #### Работа кода ветки code100
 ![pull_code100](/img/st100.png)
+
+#### Результаты модульных тестов
+![pull_xml_test2](/img/test2.png)
 
 #### Успешный запуск на GitHub при слиянии веток main <- code100
 ![pull_merge2](/img/merge2.png)
