@@ -1,0 +1,10 @@
+
+.DS_Store
+.idea
+.o
+npm/
+.env
+.log
+htmlcov/
+.tox/
+.nox/
