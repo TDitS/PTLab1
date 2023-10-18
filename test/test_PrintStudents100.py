@@ -113,4 +113,3 @@ class TestPrintStudents100:
         result100 = PrintStudents100(input_data100_2[0]).calc()
         assert (result100 == input_data100_2[1][0]) | (result100 ==
                                                        input_data100_2[1][1])
-                                                       
