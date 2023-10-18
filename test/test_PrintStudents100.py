@@ -75,4 +75,3 @@ class TestPrintStudents100:
 
         result100 = PrintStudents100(input_data100[0]).calc()
         assert result100 == input_data100[1]
-
